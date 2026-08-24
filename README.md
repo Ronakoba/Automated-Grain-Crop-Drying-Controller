@@ -1,5 +1,4 @@
-# Automated-Grain-Crop-Drying-Controller
-ESP32 Automated Grain & Crop Drying Controller
+# ESP32 Automated Grain & Crop Drying Controller
 
 An advanced embedded drying-control system built on the ESP32 (ESP-IDF/FreeRTOS architecture) to automate crop moisture regulation and prevent post-harvest spoilage. The system continuously monitors ambient temperature and humidity alongside grain moisture content to dynamically regulate ventilation and heating element relays.
 
@@ -7,7 +6,7 @@ An advanced embedded drying-control system built on the ESP32 (ESP-IDF/FreeRTOS 
 
 ## Live Simulation
 Run the live circuit simulation on Wokwi:  
-[Click Here to Launch Wokwi Simulation](YOUR_WOKWI_SHARE_LINK_HERE)
+[Click Here to Launch Wokwi Simulation](https://wokwi.com/projects/473259851079056385)
 
 ---
 
